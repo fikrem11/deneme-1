@@ -1,1 +1,226 @@
-# deneme-1
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="Filmler" content="filmler,öneriler,film özetleri" />
+    <meta name="author" content="fikrem" />
+    <title>En İyi Filmler</title>
+  </head>
+  <body>
+    <!--Film konuları ve bilgileri sinemalar.com'dan alıntıdır :)-->
+    <i>
+      <h1>En İyi Filmler</h1>
+      <br />
+      <p style="font-size: 20px">
+        İşte huzurlarınızda; sizler için özenle seçtiğim izlemeye değer en iyi
+        filmler listem:
+      </p>
+      <br />
+      <h2>Özgürlük Yolu</h2>
+
+      <b>Orjinal ismi:</b> "Into the Wild" <br />
+      <b>Süre:</b> 148dk <br />
+      <b>Tür:</b> Drama, Macera <br />
+      <b>Yönetmen:</b> Sean Penn <br />
+      <b>Senarist:</b> Sean Penn <br />
+      <b>Yapımı:</b> 2007-ABD <br />
+      <b>IMDb:</b> 8.4 <br />
+      <h3>Konusu:</h3>
+      <p>
+        Gerçek bir hayat hikayesinden uyarlanan filmin, Jon Krakauer'in kaleme
+        aldığı Yabana Doğru isimli kitabı da bulunmaktadır.<br />
+        Okulunun gözde öğrencisi Christopher McCandless, 1990 yılında mezun
+        olduktan sonra biriktirdiği 24.000 doları bir vakfa bağışlar ve
+        hayatının seyahatine çıkmaya hazırlanır. Orta gelirli bir ailenin oğlu
+        olan Christopher'ın en büyük amacı Alaska'ya giderek oradaki vahşi
+        doğayla iç içe yaşayabilmektir. Christopher çıktığı yolda hayatını
+        değiştirecek birbirinden ilginç karakterle karşılaşacaktır. İzleyecekler
+        için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+
+      <h2>Forrest Gump</h2>
+
+      <b>Süre:</b> 142dk <br />
+      <b>Tür:</b> Drama, Romantik, Komedi <br />
+      <b>Yönetmen:</b> Robert Zemeckis <br />
+      <b>Senarist:</b> Eric Roth <br />
+      <b>Yapımı:</b> 1994-ABD <br />
+      <b>IMDb:</b> 8.9 <br />
+      <h3>Konusu:</h3>
+      <p>
+        Forrest Gump, zeka seviyesi 75 olan bir erkeğin hayatını ele alıyor.
+        Zeka seviyesi nedeni ile devlet okullarına girmekte bile zorlanan
+        Forrest Gump zamanla akla mantığa uymayan başarılara imza atıyor. Her ne
+        kadar zeka seviyesi düşük olsa da fiziksel olarak son derece sağlam olan
+        Forrest Gump, zamanla gelişen olaylar zincirinde bizi hayal
+        edemeyeceğimiz bir dünyaya götürüyor.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Akıl Oyunları</h2>
+      <b>Orjinal İsmi:</b> A Beautiful Mind <br />
+      <b>Süre:</b> 135dk <br />
+      <b>Tür:</b> Romantik, Drama <br />
+      <b>Yönetmen:</b> Ron Howard <br />
+      <b>Senarist:</b> Akiva Goldsman <br />
+      <b>Yapımı:</b> 2001-ABD <br />
+      <b>IMDb:</b> 8.6 <br />
+      <h3>Konusu:</h3>
+      <p>
+        John Forbes Nash Jr., genç yaşında geliştirdiği kuramlarla matematik
+        dünyasının bir numaralı ismi haline gelir. Fakat kısa süre içerisinde
+        bencilliği ve kendine olan aşırı güveni sonucunda oluşan kişisel
+        problemleri ile baş edemez duruma düşer. Dahilik ile delilik arasındaki
+        ince çizgide, delilik tarafına doğru sürüklenir.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Hayat Güzeldir</h2>
+      <b>Orjinal İsmi:</b>La vita è bella <br />
+      <b>Süre:</b> 116dk <br />
+      <b>Tür:</b> Dram, Komedi <br />
+      <b>Yönetmen:</b> Roberto Benigni <br />
+      <b>Senarist:</b> Vincenzo Cerami, Roberto Benigni <br />
+      <b>Yapımı:</b> 1997-İtalya <br />
+      <b>IMDb:</b> 8.8 <br />
+      <h3>Konusu:</h3>
+      <p>
+        1930'ların İtalya'sında Guido adındaki tasasız, kaygısız bir Yahudi
+        kitapçı yakın bir şehirdeki güzel kadına kur yapıp onunla evlenerek bir
+        peri masalı başlatır. Guido ve karısının bir oğulları olur ve İtalya'yı
+        Alman güçleri istila edene kadar birlikte mutluluk içinde yaşarlar.
+        Ailesini bir arada tutabilmek ve oğlunun Yahudi toplama kamplarının
+        dehşetinden elinden geldiğince uzak tutmak çabası ile Guida bu yıkımı
+        bir oyun gibi gösterir. Bu oyunun kazanma ödülü ise bir tanktır...<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>3 Ahmak</h2>
+      <b>Orjinal İsmi:</b> 3 Idiots <br />
+      <b>Süre:</b> 171dk<br />
+      <b>Tür:</b> Komedi, Drama <br />
+      <b>Yönetmen:</b> Rajkumar Hirani <br />
+      <b>Senarist:</b> Rajkumar Hirani, Abhijat Joshi <br />
+      <b>Yapımı:</b> 2009-Hindistan <br />
+      <b>IMDb:</b> 8.8<br />
+      <h3>Konusu:</h3>
+      <p>
+        Hindistan'ın en iyi mühendislik okuluna başlayan öğrencilerin hayatını
+        anlatıyor özet olarak. Sistemin daima yarış üzerine kurulu olduğu,
+        herkesin en iyi olmaya çabaladığı bir okulda sistemi değiştirmeye
+        çalışan bir öğrenci ve onun en yakın 2 arkadaşı. Başlarından geçenler,
+        hayattan aslında ne istedikleri. Ranco karakterinin başrol oynadığı film
+        dram ve komedi türünü en iyi şekilde harmanlayıp bize öğretici bir film
+        olmakta.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Zindan Adası</h2>
+      <b>Orjinal İsmi:</b> Shutter Island <br />
+      <b>Süre:</b> 138dk <br />
+      <b>Tür:</b> Dram,Gerili,Gizem <br />
+      <b>Yönetmen:</b> Martin Scorsese <br />
+      <b>Senarist:</b> Laeta Kalogridis <br />
+      <b>Yapımı:</b> 2010-ABD <br />
+      <b>IMDb:</b> 8.5<br />
+      <h3>Konusu:</h3>
+      <p>
+        “Departed-Köstebek” ile Oscar ödülü kazanan yönetmen Martin Scorsese’in
+        yönettiği “Shutter Island-Zindan Adası”nda, Massachussets sahili
+        açıklarındaki bir adada suç işlemiş akıl hastalarının tedavi edildiği
+        hastanedeki bir katilin esrarengiz şekilde kayboluşunu soruşturmakla
+        görevlendirilen Teddy Daniels (Leonardo DiCaprio) ve Chuck Aule (Mark
+        Ruffalo) adlı iki polisin baş döndüren hikayesi konu ediliyor.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Sil Baştan</h2>
+      <b>Orjinal İsmi:</b> Eternal Sunshine of the Spotless Mind <br />
+      <b>Süre:</b> 108dk <br />
+      <b>Tür:</b> Romantik, Drama, Bilim Kurgu <br />
+      <b>Yönetmen:</b> Michel Gondry <br />
+      <b>Senarist:</b> Charlie Kaufman, Michel Gondry, Pierre Bismuth <br />
+      <b>Yapımı:</b> 2004-ABD <br />
+      <b>IMDb:</b> 8.4<br />
+      <h3>Konusu:</h3>
+      <p>
+        Joel Barish (Jim Carrey)'in eski sevgilisi Clementine (Kate Winslet)
+        yaşadıkları iki yıllık ilişkiye dair tüm anılarını gizemli tıbbi bir
+        müdahale ile kafasından sildirir. Bunu öğrenen Joel çok üzülür ve aynı
+        prosedürü kendi üzerinde uygulatmaya karar verir. Bütün anılarını
+        sildirmek için derin uykuya yattığında, gözlerinin önünden Clementine
+        ile yaşadığı günler geçer. Joel aslında Clementine'i unutmak
+        istemediğini anlar ve müdahaleyi durdurmak için çabalar.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Amelie</h2>
+      <b>Orjinal İsmi:</b> Le fabuleux destin d'Amélie Poulain <br />
+      <b>Süre:</b> 122dk <br />
+      <b>Tür:</b> Romantik, Komedi <br />
+      <b>Yönetmen:</b> Jean Pierre Jeunet <br />
+      <b>Senarist:</b> Guillaume Laurant, Jean Pierre Jeunet <br />
+      <b>Yapımı:</b> 2001-Fransa, Almanya <br />
+      <b>IMDb:</b> 8.5 <br />
+      <h3>Konusu:</h3>
+      <p>
+        Paris'te garsonluk yaparak, kendine özgü bir dünyada yaşayan saf,
+        çekingen ve masum bir kızdır Amelie. Annesinin beklenmedik ölümü,
+        babasının soğuk tavırları ve yaşadığı travmalar sonucu, sevimli ve boş
+        şeylerle uğraşarak kendisine eğlence yaratmaya çalışsa da aslında hayatı
+        sıkıcı bulduğu için kendisini son derece yalnız hissetmektedir. Bu kısır
+        döngü Amelie’nin evde bulduğu bir kutuyu ve onun aracılığıyla sahibini
+        keşfetmesiyle birlikte bir anda bıçak gibi kesiliverir... Amelie aşık
+        olmuştur.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Wall-E</h2>
+      <b>Süre:</b> 98dk <br />
+      <b>Tür:</b> Animasyon, Macera, Bilim Kurgu, Aile <br />
+      <b>Yönetmen:</b> Andrew Stanton <br />
+      <b>Senarist:</b> Andrew Stanton, Pete Docter, Jim Reardon <br />
+      <b>Yapımı:</b> 2008-ABD <br />
+      <b>IMDb:</b> 8.6<br />
+      <h3>Konusu:</h3>
+      <p>
+        Dünya gezegenini terk eden insanlar tarafından unutulduktan sonra, uzun
+        yıllar boyunca yapayalnız yaşayan ve bu süre içinde programlandığı işle
+        (çöp tasnifiyle) uğraşan robot WALL-E, günün birinde EVE adlı çok güzel
+        bir arama robotuyla karşılaşır ve hayatı aniden yepyeni bir anlam
+        kazanır. WALL-E’nin elinde gezegenin geleceğinin anahtarının olduğunu
+        keşfeden EVE, artık başka bir gezegende yaşayan ve dünyaya güvenlik
+        içinde geri dönüş haberini heyecanla beklemekte olan insanlara bu
+        bilgiyi rapor etmek için müthiş bir uzay yolculuğuna çıkar. Ancak
+        WALL-E’ de boş durmamış, çok beğendiği EVE’in peşine takılarak onunla
+        birlikte galaksiye açılmıştır. Sinema dünyasındaki gelmiş geçmiş en
+        heyecan verici ve en yaratıcı komedi macera böylece başlar. Geleceğin
+        daha önce hiç hayal edilmemiş vizyonlarını içeren bu filmde WALL-E’ye,
+        aralarında bir hamamböceği ile bozuk robotlardan oluşan kahraman ruhlu
+        bir topluluğun da yer aldığı birbirinden ilginç karakterler eşlik
+        eder.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br />
+      <h2>Benjamin Button'ın Tuhaf Hikayesi</h2>
+      <b>Orjinal İsmi:</b> The Curious Case of Benjamin Button <br />
+      <b>Süre:</b> 162dk<br />
+      <b>Tür:</b> Drama, Fantastik, Romantik <br />
+      <b>Yönetmen:</b> David Fincher <br />
+      <b>Senarist:</b> Eric Roth, Robin Swicord, F. Scott Fitzgerald <br />
+      <b>Yapımı:</b> 2008-ABD <br />
+      <b>IMDb:</b> 8.4 <br />
+      <h3>Konusu:</h3>
+      <p>
+        Film, seksenli yaşlarında doğup, geriye doğru yaşlanan bir adamın
+        hayatını konu alıyor. Benjamin Button hepimiz gibi zamanı durduramayan
+        bir adamdır. Birinci Dünya Savaşı’nın sonunda, 1918’de, New Orleans’tan
+        başlayıp 21. yüzyıla uzanan serüveniyle, onun hikayesi herhangi
+        birininkinden daha sıradışı bir hayatı içerir.<br />
+        İzleyecekler için keyifli seyirler dilerim...
+      </p>
+      <br /><br
+    /></i>
+  </body>
+</html>
