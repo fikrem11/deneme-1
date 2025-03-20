@@ -34,8 +34,9 @@
         hayatının seyahatine çıkmaya hazırlanır. Orta gelirli bir ailenin oğlu
         olan Christopher'ın en büyük amacı Alaska'ya giderek oradaki vahşi
         doğayla iç içe yaşayabilmektir. Christopher çıktığı yolda hayatını
-        değiştirecek birbirinden ilginç karakterle karşılaşacaktır. İzleyecekler
-        için keyifli seyirler dilerim...
+        değiştirecek birbirinden ilginç karakterle karşılaşacaktır. 
+      <br />
+        İzleyecekler için keyifli seyirler dilerim...
       </p>
       <br /><br />
 
